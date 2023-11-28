@@ -29,7 +29,7 @@ Welcome to Find Your Desired Coffee! This app is designed to help users discover
 ### Android App
 1. Open Android Studio.
 2. Clone this repository if you haven't already.
-3. Open the `android-app\CoffeeRecommender` directory.
+3. Open the `app` directory.
 4. Update `ApiUtils.java` with the Flask server address.
 5. Build and run the app on an emulator or physical device.
 
