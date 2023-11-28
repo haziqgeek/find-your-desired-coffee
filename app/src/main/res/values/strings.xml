@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Find Your Desired Coffee</string>
+    <string name="app_description">Find Your Desired Coffee helps you to find a perfect cup of coffee for you based on your preferences.</string>
+    <string name="instruction">Please select some of the features below to find your desired coffee:</string>
+    <string-array name="type">
+        <item>Espresso</item>
+        <item>Americano</item>
+        <item>Bulletproof Coffee</item>
+        <item>Latte</item>
+        <item>Flat White</item>
+        <item>Cappuccino</item>
+        <item>Macchiato</item>
+        <item>Mocha</item>
+        <item>Mocktail</item>
+    </string-array>
+    <string-array name="shop">
+        <item></item>
+        <item>Zus Coffee</item>
+        <item>Richiamo Coffee</item>
+        <item>Gigi Coffee</item>
+    </string-array>
+    <string-array name="flavour">
+        <item></item>
+        <item>Almond</item>
+        <item>Biscotti</item>
+        <item>Buttercream</item>
+        <item>Caramel</item>
+        <item>Chocolate</item>
+        <item>Hazelnut</item>
+        <item>Matcha</item>
+        <item>Vanilla</item>
+        <item>Pandan</item>
+        <item>Pecan</item>
+        <item>Strawberry</item>
+        <item>White Chocolate</item>
+    </string-array>
+    <string-array name="milk">
+        <item></item>
+        <item>Dairy Milk</item>
+        <item>Oat Milk</item>
+        <item>Condensed Milk</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>Hot</item>
+        <item>Iced</item>
+        <item>Frappe</item>
+    </string-array>
+    <string-array name="roast">
+        <item></item>
+        <item>Dark</item>
+        <item>Medium Dark</item>
+        <item>Medium</item>
+        <item>Medium Light</item>
+        <item>Light</item>
+    </string-array>
+    <string-array name="origin">
+        <item></item>
+        <item>Brazil</item>
+        <item>Indonesia</item>
+        <item>Ethiopia</item>
+        <item>Colombia</item>
+        <item>Papua New Guinea</item>
+    </string-array>
+</resources>
