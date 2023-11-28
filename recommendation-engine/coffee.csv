@@ -1,0 +1,397 @@
+﻿id,Coffee_Name,Coffee_Type,Description,Coffee_Shop,Flavour,Milk_Type,Temperature,Roast_Type,Origin,Image_URL
+1,Espresso,Espresso,"""A standard Italian Espresso pulled through 9 bars of pressure & 91ºC of water. The medium-dark roast gives hints of dark chocolate, Caramel and a smokey aftertaste. ZUS Blend is a 100% Specialty Grade Arabica hand-crafted blend consisting of Brazil, Papua New Guinea & Indonesia Single Origin Beans. This ZUS blend exhibits captivating aroma, toasty, caramel flavours, low acidity, and creamy mouthfeel with a dark cocoa aftertaste. Elevation: 800 – 2000 masl. Process: Natural & Washed""",Zus Coffee,,,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/06/espresso.png
+2,Hot Flat White,Flat White,"""For those seeking the perfect balance of creamy milk, velvety foam and pure espresso.
+
+DID YOU KNOW?
+
+Flat White actually originated from Australia. There are two types of Flat White, one has lesser milk but similar foam to a latte, the other has a lot of milk and less foam.
+
+Our version is filled with
+
+Milk 90-100%
+Foam 0-10%""",Zus Coffee,,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/06/flat-white.png
+3,Hot Americano,Americano,"""A shot of Espresso gently poured over the water, retaining the crema of the Espresso and the aroma of the coffee. For those who enjoy taking their time.
+
+“During WW2, The Americans in Europe couldn’t take the strong Espresso that Europeans were used to having.
+
+They diluted their Espresso with water and that is how the Americano came about.”
+Acidity • • 2/5
+Sweetness • • • 3/5
+Bitterness • • 2/5
+Mouthfeel • • • • 4/5
+
+100% Arabica Coffee Beans, Single Origin
+
+Beans: Brazil FAF Mountain Mogiana
+Altitude: 1200 masl
+Process: Natural
+Cupping notes: Hazelnut, creamy, citrus""",Zus Coffee,,,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/Americano.png
+4,Iced Americano,Americano,"""A shot of Espresso gently poured over the water, retaining the crema of the Espresso and the aroma of the coffee. For those who enjoy taking their time.
+
+“During WW2, The Americans in Europe couldn’t take the strong Espresso that Europeans were used to having.
+
+They diluted their Espresso with water and that is how the Americano came about.”
+Acidity • • 2/5
+Sweetness • • • 3/5
+Bitterness • • 2/5
+Mouthfeel • • • • 4/5
+
+100% Arabica Coffee Beans, Single Origin
+
+Beans: Brazil FAF Mountain Mogiana
+Altitude: 1200 masl
+Process: Natural
+Cupping notes: Hazelnut, creamy, citrus""",Zus Coffee,,,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/Americano.png
+5,Hot Salted Caramel Latte,Latte,"""For those who like their coffee on the milky side with an extra sweetness. Crafted with 100% Authentic French Syrup.
+
+DID YOU KNOW?
+
+“MONIN uses only pure essence of each ingredient in the creation of their syrups.”
+
+This traditional Latte infused with Monin Gourmet French Syrup is for those who like their coffee with a bit more flavour and sweetness.""",Zus Coffee,Caramel,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/salted_caramel_latte.png
+6,Iced Salted Caramel Latte,Latte,"""For those who like their coffee on the milky side with an extra sweetness. Crafted with 100% Authentic French Syrup.
+
+DID YOU KNOW?
+
+“MONIN uses only pure essence of each ingredient in the creation of their syrups.”
+
+This traditional Latte infused with Monin Gourmet French Syrup is for those who like their coffee with a bit more flavour and sweetness.""",Zus Coffee,Caramel,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/salted_caramel_latte.png
+7,Hot Roasted Hazelnut Latte,Latte,"""For those who like their coffee on the milky side and a little nutty. Crafted with 100% Authentic French Syrup.
+
+DID YOU KNOW?
+
+“MONIN uses only pure essence of each ingredient in the creation of their syrups.”
+
+This traditional Latte infused with Monin Gourmet French Syrup is for those who like their coffee with a bit more flavour and sweetness.""",Zus Coffee,Hazelnut,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/roasted_hazelnut_latte.png
+8,Iced Roasted Hazelnut Latte,Latte,"""For those who like their coffee on the milky side and a little nutty. Crafted with 100% Authentic French Syrup.
+
+DID YOU KNOW?
+
+“MONIN uses only pure essence of each ingredient in the creation of their syrups.”
+
+This traditional Latte infused with Monin Gourmet French Syrup is for those who like their coffee with a bit more flavour and sweetness.""",Zus Coffee,Hazelnut,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/roasted_hazelnut_latte.png
+9,Hot French Vanilla Latte,Latte,"""For those who like their coffee on the milky side with a pump of vanilla. Crafted with 100% Authentic French Syrup.
+
+DID YOU KNOW?
+
+“MONIN uses only pure essence of each ingredient in the creation of their syrups.”
+
+This traditional Latte infused with Monin Gourmet French Syrup is for those who like their coffee with a bit more flavour and sweetness.""",Zus Coffee,Vanilla,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/french_vanilla_latte.png
+10,Iced French Vanilla Latte,Latte,"""For those who like their coffee on the milky side with a pump of vanilla. Crafted with 100% Authentic French Syrup.
+
+DID YOU KNOW?
+
+“MONIN uses only pure essence of each ingredient in the creation of their syrups.”
+
+This traditional Latte infused with Monin Gourmet French Syrup is for those who like their coffee with a bit more flavour and sweetness.""",Zus Coffee,Vanilla,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/french_vanilla_latte.png
+11,Hot Café Latte,Latte,"""For those who enjoy their coffee on the milky side.
+
+Milk is frothed between temperatures of 69-72ºC, optimum to a Barista’s touch and akin to the temperature that is suitable for our customers to drink immediately upon serving.""",Zus Coffee,,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/iced_latte.png
+12,Iced Café Latte,Latte,"For those who enjoy their coffee on the milky side.
+
+Milk is frothed between temperatures of 69-72ºC, optimum to a Barista’s touch and akin to the temperature that is suitable for our customers to drink immediately upon serving.",Zus Coffee,,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/iced_latte.png
+13,Hot Cappuccino,Cappuccino,"""Like drinking delicious coffee bubbles, for those who enjoy it extra foamy.
+
+With lesser milk & more foam, if you like your coffee strong, the Cappuccino is the way to go.""",Zus Coffee,,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/cappuccino.png
+14,Iced Cappuccino,Cappuccino,"Like drinking delicious coffee bubbles, for those who enjoy it extra foamy.
+
+With lesser milk & more foam, if you like your coffee strong, the Cappuccino is the way to go.",Zus Coffee,,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/cappuccino.png
+15,Hot Caramel Macchiato,Macchiato,"""A deconstructed Salted Caramel Latte, where the Espresso is not mixed with the milk but poured on top of the frothed milk.
+
+For creamy dessert lovers. Crafted with 100% Authentic French Syrup.
+
+(Best Experienced via Pickup!)""",Zus Coffee,Caramel,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/caramel_macchiato.png
+16,Iced Caramel Macchiato,Macchiato,"""A deconstructed Salted Caramel Latte, where the Espresso is not mixed with the milk but poured on top of the frothed milk.
+
+For creamy dessert lovers. Crafted with 100% Authentic French Syrup.
+
+(Best Experienced via Pickup!)""",Zus Coffee,Caramel,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/caramel_macchiato.png
+17,Hot Pandan Coconut Latte,Latte,"""If you have ever wondered what it’s like to have Onde-Onde as a drink mixed with coffee, then this is the drink for you.
+
+Just like buying kuihs by the road from the Mak Ciks & Pak Ciks.
+
+This drink is a true symbol of why Malaysian desserts are so sought after by everyone. Memang best!""",Zus Coffee,"Pandan, Coconut",Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/pandan_coco.png
+18,Iced Pandan Coconut Latte,Latte,"If you have ever wondered what it’s like to have Onde-Onde as a drink mixed with coffee, then this is the drink for you.
+
+Just like buying kuihs by the road from the Mak Ciks & Pak Ciks.
+
+This drink is a true symbol of why Malaysian desserts are so sought after by everyone. Memang best!",Zus Coffee,"Pandan, Coconut",Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/pandan_coco.png
+19,Hot ZUS Cocoa Mocha,Mocha,"""ZUS version of Mocha, with double the Cocoa of the standard Mocha. Seriously ‘KAW’!
+
+For the traditional Mocha lovers that like their Mocha with more kick! ZUS Cocoa Mocha delivers a bittersweet palate yet a strong coffee aroma.
+
+Crafted with 100% Australian Chocolate (40% Cocoa).""",Zus Coffee,Chocolate,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/zus_cocoa_mocha.png
+20,Iced ZUS Cocoa Mocha,Mocha,"""ZUS version of Mocha, with double the Cocoa of the standard Mocha. Seriously ‘KAW’!
+
+For the traditional Mocha lovers that like their Mocha with more kick! ZUS Cocoa Mocha delivers a bittersweet palate yet a strong coffee aroma.
+
+Crafted with 100% Australian Chocolate (40% Cocoa).""",Zus Coffee,Chocolate,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/zus_cocoa_mocha.png
+21,Hot Café Mocha,Mocha,"""This mixture of chocolate & coffee has won the hearts of many.
+
+For rich dessert lovers. Crafted with 100% Australian Chocolate (40% Cocoa).""",Zus Coffee,Chocolate,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/iced_cafe-mocha.png
+22,Iced Café Mocha,Mocha,"""This mixture of chocolate & coffee has won the hearts of many.
+
+For rich dessert lovers. Crafted with 100% Australian Chocolate (40% Cocoa).""",Zus Coffee,Chocolate,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/iced_cafe-mocha.png
+23,Hot OATLY ZUS Cocoa Mocha,Mocha,"""ZUS Cocoa Mocha The OATLY Way.
+
+ZUS version of Mocha, with double the Cocoa of the standard Mocha.
+
+Seriously ‘KAW’!""",Zus Coffee,Chocolate,Oat Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/oatly-cocoa-mocha.png
+24,Iced OATLY ZUS Cocoa Mocha,Mocha,"""ZUS Cocoa Mocha The OATLY Way.
+
+ZUS version of Mocha, with double the Cocoa of the standard Mocha.
+
+Seriously ‘KAW’!""",Zus Coffee,Chocolate,Oat Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/oatly-cocoa-mocha.png
+25,Hot OATLY Café Mocha,Mocha,"""Café Mocha The OATLY Way.
+
+The mixture of chocolate & coffee, has won the hearts of many.
+
+For rich dessert lovers. Crafted with 100% Australian Chocolate (40% Cocoa).""",Zus Coffee,Chocolate,Oat Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/oatly-cafe-mocha.png
+26,Iced OATLY Café Mocha,Mocha,"""Café Mocha The OATLY Way.
+
+The mixture of chocolate & coffee, has won the hearts of many.
+
+For rich dessert lovers. Crafted with 100% Australian Chocolate (40% Cocoa).""",Zus Coffee,Chocolate,Oat Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/oatly-cafe-mocha.png
+27,Hot OATLY Spanish Latté,Latte,"""Spanish Latté The OATLY Way.
+
+Originating from Spain, this Spanish Latté with an OATsome twist is made with traditional espresso combined with sweet & textured milk. It’s sweeter than a normal latté but not as sweet as a flavoured syrup latté.""",Zus Coffee,,Oat Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/oatly-spanish-latte.png
+28,Iced OATLY Spanish Latté,Latte,"""Spanish Latté The OATLY Way.
+
+Originating from Spain, this Spanish Latté with an OATsome twist is made with traditional espresso combined with sweet & textured milk. It’s sweeter than a normal latté but not as sweet as a flavoured syrup latté.""",Zus Coffee,,Oat Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/oatly-spanish-latte.png
+29,OATLY Iced Cafe Latté,Latte,"""Iced Cafe Latté The OATLY Way.
+
+For those who enjoy their coffee on the milky side.
+
+Milk is frothed between temperatures of 69-72ºC, optimum to a Barista’s touch and akin to the temperature that is suitable for our customers to drink immediately upon serving.""",Zus Coffee,,Oat Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/oatly-iced.png
+30,OATLY CEO Latté,Latte,"""CEO Latté The OATLY Way.
+
+CEOs need their coffee stronger, more aromatic and overall fit for a totally OATsome boss. Hence, the CEO Latté was born, now everyone can drink coffee like a CEO.""",Zus Coffee,,Oat Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/oatly-ceo.png
+31,Salted Caramel Frappe,Latte,"""A salty-sweet treat that is made better when ice is blended to perfection. There’s nothing basic about loving a classic Caramel Frappé.
+
+(Whipped cream is not served for delivery)
+
+*Disclaimer: Whipped Cream Drizzle contains Butterly Pea Flower and is not recommended for pregnant/breastfeeding women. Kindly consume at your own risk.""",Zus Coffee,Caramel,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/salted-caramel-frappe.png
+32,Java Chip Frappe,Mocha,"""The all-time favourite of every frappé lover! A must-have in every frappé menu! Java Chip Frappé has now landed in ZUS Coffee. Get your fix of coffee & chocolate chips ice blended anytime, any day!
+
+(Whipped cream is not served for delivery)
+
+*Disclaimer: Whipped Cream Drizzle contains Butterly Pea Flower and is not recommended for pregnant/breastfeeding women. Kindly consume at your own risk.""",Zus Coffee,Chocolate,Dairy Milk,Frappe,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/java_chip.png
+33,Espresso Frappé,Espresso,"""The Classic Coffee Frappé. For the serious coffee drinker that is looking for a little fun, this double shot espresso frappé is the perfect drink to turn that scowl upside down.
+
+(Whipped cream is not served for delivery)
+
+*Disclaimer: Whipped Cream Drizzle contains Butterly Pea Flower and is not recommended for pregnant/breastfeeding women. Kindly consume at your own risk.""",Zus Coffee,Vanilla,Dairy Milk,Frappe,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/espresso_frappe.png
+34,Cocoa Mocha Frappé,Mocha,"""Pure Australian cocoa ice blended with speciality coffee to come together and make a classic Mocha beverage for any weather in Malaysia.
+
+(Whipped cream is not served for delivery)
+
+*Disclaimer: Whipped Cream Drizzle contains Butterly Pea Flower and is not recommended for pregnant/breastfeeding women. Kindly consume at your own risk.""",Zus Coffee,Chocolate,Dairy Milk,Frappe,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/03/coffee_04.png
+35,CEO Latté,Latte,"""CEOs need their coffee stronger, more aromatic and overall fit for a boss. Hence, the CEO Latté was born, now everyone can drink coffee like a CEO. If you like lesser milk in your coffee, this is for you.
+
+At first glance, this might look the same as a regular latté, but it’s a latté that requires more technical skill to create; and a different coffee profile to fulfil the need of the important decision-makers out there.
+
+Acidity • • 2/5
+Sweetness • • • 3/5
+Bitterness • • 2/5
+Mouthfeel • • • • 4/5
+
+At ZUS, we have noticed that many important executives in this working world need their coffee quick and strong. That’s when we took a step back, regrouped, and realised that sometimes… size doesn’t matter for a seriously good cup of coffee.""",Zus Coffee,,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/ceo_latte.png
+36,Hot Spanish Latté,Latte,"""Originating from Spain, this special Spanish Latté is made with traditional espresso combined with sweet & textured milk.
+
+It’s definitely sweeter than a normal latté but it’s not as sweet as a latté with flavoured syrup.
+
+At ZUS, we have seen how sweet & textured milk has influenced the tastebuds of locals growing up.
+
+We wanted to bring this feeling of nostalgia back to our community of ZUSsies.""",Zus Coffee,,Condensed Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/spanish_latte.png
+37,Iced Spanish Latté,Latte,"""Originating from Spain, this special Spanish Latté is made with traditional espresso combined with sweet & textured milk.
+
+It’s definitely sweeter than a normal latté but it’s not as sweet as a latté with flavoured syrup.
+
+At ZUS, we have seen how sweet & textured milk has influenced the tastebuds of locals growing up.
+
+We wanted to bring this feeling of nostalgia back to our community of ZUSsies.""",Zus Coffee,,Condensed Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/spanish_latte.png
+38,ZUS Gula Melaka,Mocktail,"""A beautiful marriage of Espresso, Gula Melaka, Pandan and Coconut Cream. Our ZUS Gula Melaka, Memang Best!
+
+Handcrafted by our Head Barista, this addictive re-innovation of a Malaysian favourite infused with only the greenest of pandan to bring out the sweet richness that Gula Melaka is known for.
+
+We slow cook our Signature Gula Melaka Syrup to ensure that the essence of the Pandan seeps into the Syrup and delivers a very Malaysian palate to our customers.""
+",Zus Coffee,,,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/zus_gula_melaka.png
+39,Hot Zirty Latté,Latte,"""(AVAILABLE FOR PICK-UP ONLY)
+
+The Sensational 3-Sip Experience
+
+First Sip
+
+Enjoy the smooth, creamy texture with a robust coffee aroma. The deep-tan crema is perfectly preserved – truly a work of art!
+
+Second Sip
+
+The marriage of steaming, freshly brewed espresso and the infusion of frigid milk releases a wondrous milky fragrance that fills the mouth.
+
+Third Sip
+
+Hitting all the right spots, this rich, creamy, hot-cold combination is a rewarding journey of discovery, all in a cup!""",Zus Coffee,,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/dirty_latte.png
+40,Iced Zirty Latté,Latte,"""(AVAILABLE FOR PICK-UP ONLY)
+
+The Sensational 3-Sip Experience
+
+First Sip
+
+Enjoy the smooth, creamy texture with a robust coffee aroma. The deep-tan crema is perfectly preserved – truly a work of art!
+
+Second Sip
+
+The marriage of steaming, freshly brewed espresso and the infusion of frigid milk releases a wondrous milky fragrance that fills the mouth.
+
+Third Sip
+
+Hitting all the right spots, this rich, creamy, hot-cold combination is a rewarding journey of discovery, all in a cup!""",Zus Coffee,,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/dirty_latte.png
+41,Thunder,Mocktail,"""Thunder was a special concoction when our Head Barista decided that he wanted to create a refreshing coffee for hot days. Being a fan of the Classic American Lemonade, he asked himself, “Why can’t I add Coffee into this?”
+
+The first result: IT SUCKED!
+
+But he persisted in combining his two favourite beverages and found that there was no available syrup that could do it, and guess what? He made his own syrup!
+
+Blending Organic Taiwanese Honey & Lemon Juice, he brought to life the Signature Honey Lemon Syrup that induced a sweet & sour “kick” when combined with Coffee & Sparkling Water.""",Zus Coffee,,,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/03/coffee_05.png
+42,Keto Black,Bulletproof Coffee,"""Keto people rejoice! Introducing our specialty black coffee combined with Authentic French Butter. Have a taste of fats in the best way – WITH COFFEE! *Available as a hot drink only.
+
+Acidity • • 2/5
+Sweetness • • • 3/5
+Bitterness • • 2/5
+Mouthfeel • • • • 4/5
+
+
+This is ZUS Coffee’s first ever Keto-friendly beverage!""",Zus Coffee,,,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/keto_black.png
+43,ZERO Frappé,,"""The most functional frappé in the history of ZUS! Who says you can’t have a coffee frappe AND be on a diet at the same time? ZERO DAIRY MILK, ZERO NONSENSE.
+
+Acidity • • 2/5
+Sweetness • • • 3/5
+Bitterness • • 2/5
+Mouthfeel • • • • 4/5
+
+Boost your energy with our double shot espresso blended with our top of the line selection of fine plant-based milks.""",Zus Coffee,,Oat Milk,Frappe,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/zero_frappe.png
+44,Hot ZERO Latté,Latte,"""ZERO Dairy Milk – The perfect cuppa for the lactose intolerant. Have a taste of guilt-free with our signature ZERO Latté. Take your pick from plant-based milk options of Oat Milk, Almond Milk & Soy Milk!
+
+No MOOs were harmed in the making of this delicious drink.
+
+Acidity • • 2/5
+Sweetness • • • 3/5
+Bitterness • • 2/5
+Mouthfeel • • • • 4/5""",Zus Coffee,,Oat Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/zero_latte.png
+45,Iced ZERO Latté,Latte,"""ZERO Dairy Milk – The perfect cuppa for the lactose intolerant. Have a taste of guilt-free with our signature ZERO Latté. Take your pick from plant-based milk options of Oat Milk, Almond Milk & Soy Milk!
+
+No MOOs were harmed in the making of this delicious drink.
+
+Acidity • • 2/5
+Sweetness • • • 3/5
+Bitterness • • 2/5
+Mouthfeel • • • • 4/5""",Zus Coffee,,Oat Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/05/zero_latte.png
+46,Pink Black,Mocktail,"""Pink is the new Black…especially when you’re in need of that necessary espresso shot!
+
+For those who can’t drink espresso on its own, this mixture of Pink Lemonade and espresso might just be the taste you are looking for.""",Zus Coffee,,,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2022/06/pink_black.png
+47,Espresso,Espresso,A coffee beverage made with a single shot of espresso.,Richiamo Coffee,,,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/1.-Espresso-600x600.jpg
+48,Double Espresso,Espresso,A coffee beverage made with two shots of espresso.,Richiamo Coffee,,,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/1.-Espresso-600x600.jpg
+49,Americano,Americano,A coffee beverage made with espresso and hot water.,Richiamo Coffee,,,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/2.-Americano-600x600.jpg
+50,Cappuccino,Cappuccino,A coffee beverage made with espresso and steamed milk.,Richiamo Coffee,,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/3.-Cappuccino-600x600.jpg
+51,Caramello Cappuccino,Cappuccino,"A coffee beverage made with espresso, caramel sauce and steamed milk.",Richiamo Coffee,Caramel,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/5.-Caramello-Cappuccino-600x600.jpg
+52,Hazelnut Cappuccino,Cappuccino,"A coffee beverage made with espresso, hazelnut syrup and steamed milk.",Richiamo Coffee,Hazelnut,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/4.-Hazelnut-Cappuccino-600x600.jpg
+53,Salted Caramello Cappuccino,Cappuccino,"A coffee beverage made with espresso, salted caramel sauce and steamed milk.",Richiamo Coffee,Caramel,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/6.-Salted-Caramello-Cappuccino-600x600.jpg
+54,Caffe Latte,Latte,A coffee beverage made with espresso and steamed milk.,Richiamo Coffee,,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/7.-Caffe-Latte-600x600.jpg
+55,Caramello Latte,Latte,"A coffee beverage made with espresso, caramel sauce and steamed milk.",Richiamo Coffee,Caramel,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/9.-Caramello-Latte-600x600.jpg
+56,Hazelnut Latte,Latte,,Richiamo Coffee,Hazelnut,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/8.-Hazelnut-Latte-600x600.jpg
+57,Caffe Mochaccino,Mocha,,Richiamo Coffee,Chocolate,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/12.-Caffe-Mochaccino-600x600.jpg
+58,White Mochaccino,Mocha,,Richiamo Coffee,White Chocolate,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/13.-White-Mochaccino-600x600.jpg
+59,Caffe Vanilla,Latte,,Richiamo Coffee,Vanilla,Dairy Milk,Hot,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/11.-Caffe-Vanilla-600x600.jpg
+60,Iced Americano,Americano,,Richiamo Coffee,,,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/1.-Americano-copy-600x600.jpg
+61,Iced White Mochaccino,Mocha,,Richiamo Coffee,White Chocolate,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/2.-White-Mochaccino-copy-600x600.jpg
+62,Iced Mochaccino,Mocha,,Richiamo Coffee,Chocolate,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/3.-Mochaccino-copy-600x600.jpg
+63,Iced Cappuccino,Cappuccino,,Richiamo Coffee,,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/4.-Cappuccino-copy-600x600.jpg
+64,Iced Hazelnut Cappuccino,Cappuccino,,Richiamo Coffee,Hazelnut,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/7.-Hazelnut-Cappuccino-copy-600x600.jpg
+65,Iced Caramello Cappuccino,Cappuccino,,Richiamo Coffee,Caramel,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/5.-Caramello-Cappuccino-copy-600x600.jpg
+66,Iced Caffe Latte,Latte,,Richiamo Coffee,,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/8.-Caffe-Latte-copy-600x600.jpg
+67,Iced Caramello Latte,Latte,,Richiamo Coffee,Caramel,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/9.-Caramello-Latte-copy-600x600.jpg
+68,Iced Hazelnut Latte,Latte,,Richiamo Coffee,Hazelnut,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/11.-Hazelnut-Latte-copy-600x600.jpg
+69,Iced Vanilla Latte,Latte,,Richiamo Coffee,Vanilla,Dairy Milk,Iced,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/12.-Vanilla-Latte-copy-600x600.jpg
+70,Cappuccino,Cappuccino,,Richiamo Coffee,,Dairy Milk,Frappe,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/1.-Ice-Blended-Cappuccino-600x600.jpg
+71,Mochaccino,Mocha,,Richiamo Coffee,Chocolate,Dairy Milk,Frappe,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/2.-Ice-Blended-Mochaccino-600x600.jpg
+72,White Mochaccino,Mocha,,Richiamo Coffee,White Chocolate,Dairy Milk,Frappe,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/3.-Ice-Blended-White-Mochaccino-600x600.jpg
+73,Hazelnut Cappuccino,Cappuccino,,Richiamo Coffee,Hazelnut,Dairy Milk,Frappe,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/4.-Ice-Blended-Hazelnut-Cappuccino-600x600.jpg
+74,Caramello Cappuccino,Cappuccino,,Richiamo Coffee,Caramel,Dairy Milk,Frappe,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/6.-Ice-Blended-Caramello-Cappuccino-600x600.jpg
+75,Biscotti Cappuccino,Cappuccino,,Richiamo Coffee,Biscotti,Dairy Milk,Frappe,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/5.-Ice-Blended-Biscotti-Cappuccino-600x600.jpg
+76,Caramello Cappuccino,Cappuccino,,Richiamo Coffee,Caramel,Dairy Milk,Frappe,Medium Dark,"Guatemala, Columbia, Brazil, Indonesia",https://richiamocoffee.com/wp-content/uploads/2023/04/6.-Ice-Blended-Caramello-Cappuccino-600x600.jpg
+77,Espresso (Indonesian Beans),Espresso,,Gigi Coffee,,,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/espresso.png
+78,Espresso (Colombian Beans),Espresso,,Gigi Coffee,,,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/espresso.png
+79,Hot Americano (Indonesian Beans),Americano,,Gigi Coffee,,,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/americano-h.png
+80,Hot Americano (Colombian Beans),Americano,,Gigi Coffee,,,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/americano-h.png
+81,Iced Americano (Indonesian Beans),Americano,,Gigi Coffee,,,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/americano-h.png
+82,Iced Americano (Colombian Beans),Americano,,Gigi Coffee,,,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/americano-h.png
+83,Hot Caffe Latte (Indonesian Beans),Latte,,Gigi Coffee,,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caffe-latte-h.png
+84,Hot Caffe Latte (Colombian Beans),Latte,,Gigi Coffee,,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caffe-latte-h.png
+85,Iced Caffe Latte (Indonesian Beans),Latte,,Gigi Coffee,,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caffe-latte-h.png
+86,Iced Caffe Latte (Colombian Beans),Latte,,Gigi Coffee,,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caffe-latte-h.png
+87,Hot Cappuccino (Indonesian Beans),Cappuccino,,Gigi Coffee,,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/04/cappuccino.png
+88,Hot Cappuccino (Colombian Beans),Cappuccino,,Gigi Coffee,,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/04/cappuccino.png
+89,Iced Buttercream Latte,Latte,,Gigi Coffee,Buttercream,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/buttercream-latte-h.png
+90,Hot Buttercream Latte,Latte,,Gigi Coffee,Buttercream,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/buttercream-latte-h.png
+91,Hot Hazelnut Latte (Indonesian Beans),Latte,,Gigi Coffee,Hazelnut,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/hazelnut-latte-h.png
+92,Hot Hazelnut Latte (Colombian Beans),Latte,,Gigi Coffee,Hazelnut,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/hazelnut-latte-h.png
+93,Iced Hazelnut Latte (Indonesian Beans),Latte,,Gigi Coffee,Hazelnut,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/hazelnut-latte-h.png
+94,Iced Hazelnut Latte (Colombian Beans),Latte,,Gigi Coffee,Hazelnut,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/hazelnut-latte-h.png
+95,Hot Pink Friday Strawberry Cookies Latte (Indonesian Beans),Latte,,Gigi Coffee,Strawberry,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/pink-friday-strawberry-cookies-latte-h.png
+96,Hot Pink Friday Strawberry Cookies Latte (Colombian Beans),Latte,,Gigi Coffee,Strawberry,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/pink-friday-strawberry-cookies-latte-h.png
+97,Iced Pink Friday Strawberry Cookies Latte (Indonesian Beans),Latte,,Gigi Coffee,Strawberry,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/pink-friday-strawberry-cookies-latte-h.png
+98,Iced Pink Friday Strawberry Cookies Latte (Colombian Beans),Latte,,Gigi Coffee,Strawberry,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/pink-friday-strawberry-cookies-latte-h.png
+99,Hot Pecan Praline Latte (Indonesian Beans),Latte,,Gigi Coffee,Pecan,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/pecan-praline-latte-h.png
+100,Hot Pecan Praline Latte (Colombian Beans),Latte,,Gigi Coffee,Pecan,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/pecan-praline-latte-h.png
+101,Iced Pecan Praline Latte (Indonesian Beans),Latte,,Gigi Coffee,Pecan,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/pecan-praline-latte-h.png
+102,Iced Pecan Praline Latte (Colombian Beans),Latte,,Gigi Coffee,Pecan,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/pecan-praline-latte-h.png
+103,Hot Almond Macadamia Latte (Indonesian Beans),Latte,,Gigi Coffee,Almond,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/almond-macadamia-latte-h.png
+104,Hot Almond Macadamia Latte (Colombian Beans),Latte,,Gigi Coffee,Almond,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/almond-macadamia-latte-h.png
+105,Iced Almond Macadamia Latte (Indonesian Beans),Latte,,Gigi Coffee,Almond,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/almond-macadamia-latte-h.png
+106,Iced Almond Macadamia Latte (Colombian Beans),Latte,,Gigi Coffee,Almond,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/almond-macadamia-latte-h.png
+107,Hot Caramel Macchiato (Indonesian Beans),Macchiato,,Gigi Coffee,Caramel,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caramel-macchiato-h.png
+108,Hot Caramel Macchiato (Colombian Beans),Macchiato,,Gigi Coffee,Caramel,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caramel-macchiato-h.png
+109,Iced Caramel Macchiato (Indonesian Beans),Macchiato,,Gigi Coffee,Caramel,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caramel-macchiato-h.png
+110,Iced Caramel Macchiato (Colombian Beans),Macchiato,,Gigi Coffee,Caramel,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caramel-macchiato-h.png
+111,Hot Caffe Mocha (Indonesian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caffe-mocha-h.png
+112,Hot Caffe Mocha (Colombian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caffe-mocha-h.png
+113,Iced Caffe Mocha (Indonesian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caffe-mocha-h.png
+114,Iced Caffe Mocha (Colombian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caffe-mocha-h.png
+115,Hot Vanilla Latte (Indonesian Beans),Latte,,Gigi Coffee,Vanilla,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/vanilla-latte-h.png
+116,Hot Vanilla Latte (Colombian Beans),Latte,,Gigi Coffee,Vanilla,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/vanilla-latte-h.png
+117,Iced Vanilla Latte (Indonesian Beans),Latte,,Gigi Coffee,Vanilla,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/vanilla-latte-h.png
+118,Iced Vanilla Latte (Colombian Beans),Latte,,Gigi Coffee,Vanilla,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/vanilla-latte-h.png
+119,Hot Monday Blue Cookies Latte (Indonesian Beans),Latte,,Gigi Coffee,,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/monday-blue-cookies-latte-h.png
+120,Hot Monday Blue Cookies Latte (Colombian Beans),Latte,,Gigi Coffee,,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/monday-blue-cookies-latte-h.png
+121,Iced Monday Blue Cookies Latte (Indonesian Beans),Latte,,Gigi Coffee,,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/monday-blue-cookies-latte-h.png
+122,Iced Monday Blue Cookies Latte (Colombian Beans),Latte,,Gigi Coffee,Chocolate,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/monday-blue-cookies-latte-h.png
+123,Hot Dark Choco Mocha (Indonesian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/dark-choco-mocha-h.png
+124,Hot Dark Choco Mocha (Colombian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/dark-choco-mocha-h.png
+125,Iced Dark Choco Mocha (Indonesian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/dark-choco-mocha-h.png
+126,Iced Dark Choco Mocha (Colombian Beans),Mocha,,Gigi Coffee,Caramel,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/dark-choco-mocha-h.png
+127,Hot Seasalt Caramel Macchiato (Indonesian Beans),Macchiato,,Gigi Coffee,Caramel,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/seasalt-caramel-macchiato-h.png
+128,Hot Seasalt Caramel Macchiato (Colombian Beans),Macchiato,,Gigi Coffee,Caramel,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/seasalt-caramel-macchiato-h.png
+129,Iced Seasalt Caramel Macchiato (Indonesian Beans),Macchiato,,Gigi Coffee,Caramel,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/seasalt-caramel-macchiato-h.png
+130,Iced Seasalt Caramel Macchiato (Colombian Beans),Macchiato,,Gigi Coffee,Chocolate,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/seasalt-caramel-macchiato-h.png
+131,Hot Seasalt Choco Cream Mocha (Indonesian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Hot,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/seasalt-choco-cream-mocha-h.png
+132,Hot Seasalt Choco Cream Mocha (Colombian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Hot,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/seasalt-choco-cream-mocha-h.png
+133,Iced Seasalt Choco Cream Mocha (Indonesian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Iced,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/seasalt-choco-cream-mocha-h.png
+134,Iced Seasalt Choco Cream Mocha (Colombian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Iced,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/seasalt-choco-cream-mocha-h.png
+135,Dark Choco Mocha (Indonesian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Frappe,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/dark-choco-mocha-g-frappe.png
+136,Dark Choco Mocha (Colombian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Frappe,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/dark-choco-mocha-g-frappe.png
+137,Caramel Espresso (Indonesian Beans),Espresso,,Gigi Coffee,,Dairy Milk,Frappe,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caramel-espresso-g-frappe.png
+138,Caramel Espresso (Colombian Beans),Espresso,,Gigi Coffee,,Dairy Milk,Frappe,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/caramel-espresso-g-frappe.png
+139,Espresso (Indonesian Beans),Espresso,,Gigi Coffee,,Dairy Milk,Frappe,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/espresso-g-frappe.png
+140,Espresso (Colombian Beans),Espresso,,Gigi Coffee,,Dairy Milk,Frappe,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/espresso-g-frappe.png
+141,Mocha More (Indonesian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Frappe,Medium Dark,Indonesia,https://www.gigicoffee.com/wp-content/uploads/2023/06/mocha-more.png
+142,Mocha More (Colombian Beans),Mocha,,Gigi Coffee,Chocolate,Dairy Milk,Frappe,Medium,Colombia,https://www.gigicoffee.com/wp-content/uploads/2023/06/mocha-more.png
+143,Iced Buttercreme Latte,Latte,,Zus Coffee,Buttercream,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Buttercreme-Latte.png
+144,Hot Buttercreme Latte,Latte,,Zus Coffee,Buttercream,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Buttercreme-Latte.png
+145,Iced Buttercreme Black,Americano,,Zus Coffee,Buttercream,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Buttercreme-Black.png
+146,Hot Buttercreme Black,Americano,,Zus Coffee,Buttercream,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Buttercreme-Black.png
+147,Iced Velvet Crème Latte,Latte,,Zus Coffee,Buttercream,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Velvet-Creme-Latte.png
+148,Hot Velvet Crème Latte,Latte,,Zus Coffee,Buttercream,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Velvet-Creme-Latte.png
+149,Hot Velvet Crème Mocha,Mocha,,Zus Coffee,Chocolate,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Velvet-Creme-Mocha-Latte.png
+150,Iced Velvet Crème Mocha,Mocha,,Zus Coffee,Chocolate,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Velvet-Creme-Mocha-Latte.png
+151,Hot Velvet Crème Matcha Latte,Latte,,Zus Coffee,Matcha,Dairy Milk,Hot,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Velvet-Creme-Mocha-Latte.png
+152,Iced Velvet Crème Matcha Latte,Latte,,Zus Coffee,Matcha,Dairy Milk,Iced,Medium Dark,"Brazil, Papua New Guinea, Indonesia",https://zuscoffee.com/wp-content/uploads/2023/07/Iced-Velvet-Creme-Mocha-Latte.png
